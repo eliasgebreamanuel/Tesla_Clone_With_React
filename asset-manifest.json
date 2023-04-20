@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eliasgebreamanuel/Tesla_Clone_With_React.git/static/css/main.1516900a.css",
+    "main.js": "/eliasgebreamanuel/Tesla_Clone_With_React.git/static/js/main.ae112db6.js",
+    "static/js/787.4123a5c1.chunk.js": "/eliasgebreamanuel/Tesla_Clone_With_React.git/static/js/787.4123a5c1.chunk.js",
+    "static/media/logo.svg": "/eliasgebreamanuel/Tesla_Clone_With_React.git/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/eliasgebreamanuel/Tesla_Clone_With_React.git/index.html",
+    "main.1516900a.css.map": "/eliasgebreamanuel/Tesla_Clone_With_React.git/static/css/main.1516900a.css.map",
+    "main.ae112db6.js.map": "/eliasgebreamanuel/Tesla_Clone_With_React.git/static/js/main.ae112db6.js.map",
+    "787.4123a5c1.chunk.js.map": "/eliasgebreamanuel/Tesla_Clone_With_React.git/static/js/787.4123a5c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1516900a.css",
+    "static/js/main.ae112db6.js"
+  ]
+}
